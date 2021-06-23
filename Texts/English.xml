@@ -1,0 +1,39 @@
+<Values>
+       <EnterMessage>Hello new user</EnterMessage>
+	  <BotIsUnAvailable>Bot is temporary unavailable</BotIsUnAvailable>
+	  <ChangeLanguageButton>Change language</ChangeLanguageButton>
+	  <ChangeTimeStampButton>Changle Timestamp</ChangeTimeStampButton>
+	  <OptionsMenuText>Options menu</OptionsMenuText>
+	  <CurrentBalanceText>Your balance: $1
+Bonuse balance: $2</CurrentBalanceText>
+	  <FillBalanceButton>Fill balance</FillBalanceButton>
+	  <ZeroHabbits>You do not have implanted habbits</ZeroHabbits>
+	  <PricePerHabbit>Service cost – 1000 rub. for per habbit</PricePerHabbit>
+	  <AcceptHabbitPrice>Ok</AcceptHabbitPrice>
+	  <AddHabbit>Add habbit</AddHabbit>
+	  <CancelHabbit>Cancel habbit</CancelHabbit>
+	  <DeclineHabbitPrice>Exit</DeclineHabbitPrice>
+	  <EnterHabbit>Enter habbit</EnterHabbit>
+	  <DefaultParams>Default parameters</DefaultParams>
+	  <OwnParams>Own parameters</OwnParams>
+	  <ChooseParamsTypeMenu>Выберите вариант заполнения параметров.
+При выборе базовых параметров,буду установлен вариант по умолчанию – 10.00 без предупреждений, 500 руб, ежедневно, 4 недели</ChooseParamsTypeMenu>
+	  <PricePerMistake>Enter cost of daily mistake – from 50 to 50000 rub., We recommend you to set price of you meal.</PricePerMistake>
+      <InfoTime>Enter report time by choosing one of options and time in format hh:mm(e.x 15:30) with space
+1)daily-to get report every day.
+2)work-to get report in working days
+3)Numbers of days splitted with comma</InfoTime>
+      <ExtraReport>Extra report for 0,5-12 hour or 0</ExtraReport>
+	  <HabbitStoreTime>Habbit impalt time (3-12 weeks).</HabbitStoreTime>
+	  <HabbitAdded>Habbit was added</HabbitAdded>
+	  <NumericFormatException>Wrong string format.Enter number</NumericFormatException>
+	  <DateFormatException>Wrong string format.Enter string which matches with pattern</DateFormatException>
+	  <EffectHabbitImpant>For effective implanting habbit you need to do it without a break for more 30 day</EffectHabbitImpant>
+	  <LeaveMenu>Exit</LeaveMenu>
+      <HelpShortMessage>Help message</HelpShortMessage>
+	  <HelpLongMessage>Long help message</HelpLongMessage>
+	  <LanguageMenuText>Select language menu</LanguageMenuText>
+      <TimeStampMenuText>Select timestamo</TimeStampMenuText>
+      <TimeStampWasChanged>Timestamp was changed to UTC</TimeStampWasChanged>
+	  <ListIsEmpty>You do not have added habbits</ListIsEmpty>
+</Values>
